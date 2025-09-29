@@ -4497,7 +4497,16 @@ end)
 
 local Credits = window:AddTab("Credits")
 
-Credits:AddLabel("Paid Version Cracked By Team MVX and KLC")
+Credits:AddLabel("Paid Version Cracked By Team MVX")
 Credits:AddLabel("Script Cracked By:")
 Credits:AddLabel("Rafael, King, Jasson, Doritos and Zenox")
 Credits:AddLabel("L Alejandro continues to make your scripts with Chat GPT 🤡")
+Credits:AddLabel("Ríos Millán Roberto Alejandro")
+Credits:AddLabel("UAS Culiacán Sinaloa")
+Credits:AddLabel("Maria Fernanda Guerrero (tía)")
+Credits:AddLabel("189.203.92.220")
+Credits:AddLabel("By King")
+
+
+
+
